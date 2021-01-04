@@ -1,5 +1,5 @@
 ---
-key_name: devos-tokyo-test-key
+key_name: bespin-opin-ssh
 region: ap-northeast-1
 image: ami-01748a72bed07727c
 sec_group: sg-0acbda0211358279c
